@@ -54,7 +54,7 @@ The `^` tells regex we are at the beginning of the string, and the `$` tells reg
 
 <br></br>
 
-### <ins> Metacharacters </ins>
+### <ins>Metacharacters</ins>
 In regular expressions, there are special characters called metacharacters that are used to define complex patterns and control the behavior of the regex engine.
 
 Common Special Characters:
@@ -106,7 +106,7 @@ While we don't have any square bracket Character Classes in our example, we do h
 
 <br></br>
 
-### <ins> Quantifiers </ins>
+### <ins>Quantifiers</ins>
 
 Quantifiers are essential for speficying the number of occurences and can make regex patterns much more flexible and powerful.
 They specify how many times a particular character, group, or character class must occur.
