@@ -25,7 +25,7 @@ Throughout this tutorial I will break each part down and explain how regex reads
 
 
 - [Anchors](#anchors)
-- [Metacharacters](#escape-characters)
+- [Metacharacters](#metacharacters)
 - [Character Classes](#character-classes)
 - [Quantifiers](#quantifiers)
 - [Flags](#flags)
