@@ -40,7 +40,7 @@ Throughout this tutorial I will break each part down and explain how regex reads
 
 
 
-### <ins> Anchors </ins>
+### <ins>Anchors</ins>
 
 Anchors in regular expressions are used to specifify the position of the pattern in relation to a line of text. They help in defining the boundaries of the pattern you are looking for.
 Common Anchors include the Caret (`^`) and the Dollar Sign (`$`). 
